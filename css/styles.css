@@ -1,0 +1,21 @@
+p {
+  font-family: 'Lato';
+  font-size: 2em;
+  font-weight: 200;
+  margin-bottom: 30px;
+}
+
+.textbox {
+  margin-top: 50px;
+}
+
+.footer p {
+  font-size: 1em;
+}
+
+hr {
+  border:1px solid #ccc;
+}
+.topimg {
+   padding-top: 70px;
+}
